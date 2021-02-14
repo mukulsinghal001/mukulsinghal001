@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is Mukul Singhal.. 👦
 
 - 🔭 I’m currently working as an intern at Amity Online. 
 - 🌱 I’m currently learning Deep Learning & NLP.
