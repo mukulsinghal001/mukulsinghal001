@@ -3,7 +3,7 @@
 My name is Mukul Singhal.. 👦
 
 - 🔭 I’m currently working as an intern at Amity Online. 
-- 🌱 I’m currently Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Marketing Analytics
 - 💬 Ask me about ... Online Marketing, Marketing Analytics, App + Web Analytics, SEO, PPC, SEM, SMO, Email Marketing, etc.
 - 📫 How to reach me: ... [Twitter - @imukulsinghal](https://twitter.com/imukul_singhal)
