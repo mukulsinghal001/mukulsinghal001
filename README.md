@@ -4,7 +4,7 @@ My name is Mukul Singhal.. 👦
 
 - 🔭 I’m currently looking for an opportunity in Marketing Science. 
 - 🌱 I’m currently learning NLP & Deep Learning.
-- 👯 I’m looking to collaborate on Marketing & Data Analytics.
+- 🙌 I’m looking to collaborate on Marketing & Data Analytics.
 - 💬 Ask me about ... Online Marketing, Marketing Analytics, App + Web Analytics, SEO, PPC, SEM, SMO, Email Marketing, etc.
 - 📫 How to reach me: ... [Twitter - @imukulsinghal](https://twitter.com/imukul_singhal)
 - 📊 Tableau Public - [Tableau Public - Mukul Singhal](https://public.tableau.com/profile/mukul.singhal)
