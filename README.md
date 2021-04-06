@@ -2,7 +2,7 @@
 
 My name is Mukul Singhal.. 👦
 
-- 🔭 I’m currently looking for an opportunity in Marketing Science. 
+- 🔭 I’m currently working as an Analyst with Ugam - A Merkle Company. 
 - 🌱 I’m currently learning NLP & Deep Learning.
 - 🙌 I’m looking to collaborate on Marketing & Data Analytics.
 - 💬 Ask me about ... Online Marketing, Marketing Analytics, App + Web Analytics, SEO, PPC, SEM, SMO, Email Marketing, etc.
