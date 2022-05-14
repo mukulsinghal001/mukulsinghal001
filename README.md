@@ -3,7 +3,6 @@
 My name is Mukul Singhal.. 👦
 
 - 🔭 I’m currently working as an Analyst with Ugam - A Merkle Company. 
-- 🌱 I’m currently learning NLP & Deep Learning.
 - 🙌 I’m looking to collaborate on Marketing & Data Analytics.
 - 💬 Ask me about ... Online Marketing, Marketing Analytics, App + Web Analytics, SEO, PPC, SEM, SMO, Email Marketing, etc.
 - 📫 How to reach me: ... [Twitter - @imukulsinghal](https://twitter.com/imukul_singhal)
