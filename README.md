@@ -2,7 +2,7 @@
 
 My name is Mukul Singhal.. 👦
 
-- 🔭 I’m currently working as a Analyst III @ MiQ. 
+- 🔭 I’m currently working as Analyst III @ MiQ. 
 - 🙌 I’m looking to collaborate on Marketing & Data Analytics.
 - 💬 Ask me about ... Online Marketing, Marketing Analytics, App + Web Analytics, SEO, PPC, SEM, SMO, Email Marketing, etc.
 - 📫 How to reach me: ... [Twitter - @imukulsinghal](https://twitter.com/imukul_singhal)
