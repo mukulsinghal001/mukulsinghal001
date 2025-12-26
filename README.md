@@ -9,7 +9,7 @@ My name is **Mukul Singhal**.
 - 🤝 Looking to collaborate on **AI-driven analytics, autonomous agents, ad tech data systems, and marketing measurement frameworks**.  
 - 💬 Ask me about:  
   **Online Marketing, Marketing Analytics, App/Web Analytics, SEO, PPC, SEM, SMO, ETL, PySpark, Prompt Engineering, Agents, Multi-Agents, and AI Workflows.**  
-- 📫 Connect with me: [Twitter - @imukul_singhal](https://twitter.com/imukul_singhal)  
+- 📫 Connect with me: [Twitter - @imukul_singhal](https://twitter.com/imukul_singhal) | [LinkedIn - @imukulsinghal](https://www.linkedin.com/in/imukulsinghal/)  
 - 📉 Tableau Public: [Mukul Singhal](https://public.tableau.com/profile/mukul.singhal)  
 - 🌈 Sample Data Studio Dashboards: [Dashboards](https://datastudio.google.com/u/0/reporting/8fb66165-9c31-44c6-aa96-797cfaca963b/page/8mI1B)
 
